@@ -1,0 +1,15 @@
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\bin\Debug\net6.0\Rubrica.RepositoryADO.deps.json
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\bin\Debug\net6.0\Rubrica.RepositoryADO.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\bin\Debug\net6.0\Rubrica.RepositoryADO.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\bin\Debug\net6.0\Rubrica.Core.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\bin\Debug\net6.0\Rubrica.Core.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.csproj.AssemblyReference.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.AssemblyInfoInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.AssemblyInfo.cs
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.csproj.CoreCompileInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.csproj.CopyComplete
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\refint\Rubrica.RepositoryADO.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\Rubrica.RepositoryADO.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryADO\obj\Debug\net6.0\ref\Rubrica.RepositoryADO.dll

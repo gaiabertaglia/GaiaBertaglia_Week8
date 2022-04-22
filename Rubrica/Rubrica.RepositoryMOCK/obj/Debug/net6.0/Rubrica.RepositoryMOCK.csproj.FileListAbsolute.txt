@@ -1,0 +1,15 @@
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\bin\Debug\net6.0\Rubrica.RepositoryMOCK.deps.json
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\bin\Debug\net6.0\Rubrica.RepositoryMOCK.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\bin\Debug\net6.0\Rubrica.RepositoryMOCK.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\bin\Debug\net6.0\Rubrica.Core.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\bin\Debug\net6.0\Rubrica.Core.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.csproj.AssemblyReference.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.AssemblyInfoInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.AssemblyInfo.cs
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.csproj.CoreCompileInputs.cache
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.csproj.CopyComplete
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\refint\Rubrica.RepositoryMOCK.dll
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\Rubrica.RepositoryMOCK.pdb
+C:\Users\gaiab\OneDrive\Desktop\GaiaBertaglia_Week8\Rubrica\Rubrica.RepositoryMOCK\obj\Debug\net6.0\ref\Rubrica.RepositoryMOCK.dll

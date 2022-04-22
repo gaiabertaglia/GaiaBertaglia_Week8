@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Presentation\\Rubrica.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj",
+        "projectName": "Rubrica.Core",
+        "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj",
+        "packagesPath": "C:\\Users\\gaiab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gaiab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Presentation\\Rubrica.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Presentation\\Rubrica.Presentation.csproj",
+        "projectName": "Rubrica.Presentation",
+        "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Presentation\\Rubrica.Presentation.csproj",
+        "packagesPath": "C:\\Users\\gaiab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gaiab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\Rubrica.RepositoryADO.csproj": {
+                "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\Rubrica.RepositoryADO.csproj"
+              },
+              "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\Rubrica.RepositoryMOCK.csproj": {
+                "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\Rubrica.RepositoryMOCK.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\Rubrica.RepositoryADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\Rubrica.RepositoryADO.csproj",
+        "projectName": "Rubrica.RepositoryADO",
+        "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\Rubrica.RepositoryADO.csproj",
+        "packagesPath": "C:\\Users\\gaiab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gaiab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj": {
+                "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\Rubrica.RepositoryMOCK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\Rubrica.RepositoryMOCK.csproj",
+        "projectName": "Rubrica.RepositoryMOCK",
+        "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\Rubrica.RepositoryMOCK.csproj",
+        "packagesPath": "C:\\Users\\gaiab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.RepositoryMOCK\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gaiab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj": {
+                "projectPath": "C:\\Users\\gaiab\\OneDrive\\Desktop\\GaiaBertaglia_Week8\\Rubrica\\Rubrica.Core\\Rubrica.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
